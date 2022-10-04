@@ -110,7 +110,7 @@ main{
 
 }
 
-main a {
+main  a {
     text-decoration: none;
     font-weight: bold;
     background-color: var(--cor-rosa02);
@@ -138,3 +138,26 @@ img{
    
 }
 
+
+footer{
+    background-color: var(--cor-rosa05);
+    font-family: var(--fonte-padrao);
+    margin-top: 20px;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+
+footer a{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+
+}
+
+footer a:hover{
+    color: white;
+    text-decoration: underline;
+    
+}
